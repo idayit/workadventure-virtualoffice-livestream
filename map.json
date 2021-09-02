@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/digitalstreet\/virtualoffice\/sesame"
+                 "value":"https:\/\/play.workadventu.re\/@\/digitalstreet\/virtualoffice\/sesame#exitLive"
                 }],
          "type":"tilelayer",
          "visible":true,
