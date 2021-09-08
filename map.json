@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/swa-asa.ch\/fr\/"
+                 "value":"https:\/\/www.idayit.com\/mdp-swa-asa"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.leadingswissagencies.ch\/fr\/home"
+                 "value":"https:\/\/www.idayit.com\/mdp-lsa"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ks-cs.ch\/fr"
+                 "value":"https:\/\/www.idayit.com\/mdp-kscs"
                 }],
          "type":"tilelayer",
          "visible":true,
